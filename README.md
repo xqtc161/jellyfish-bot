@@ -7,7 +7,7 @@
   
  ![foxdemo](https://i.imgur.com/UkW7wDL.png)
 
- To self-host just execute the bot.js file.
+ To self-host just execute the bot.js file. (Needs Java Runtime Environment: https://java.com/en/download/)
  
  Usage:
 
