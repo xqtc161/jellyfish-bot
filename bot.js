@@ -1,5 +1,3 @@
-
-
 const DBM = {};
 DBM.version = "1.6.10";
 
