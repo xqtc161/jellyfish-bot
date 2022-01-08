@@ -1,10 +1,8 @@
-const DBM = {};
-DBM.version = "1.6.10";
 
 const DiscordJS = DBM.DiscordJS = require("discord.js");
 
 if(DiscordJS.version < "12.0.0") {
-	throw new Error("Need Discord.JS v12 to Run!!!");
+
 }
 
 //---------------------------------------------------------------------
