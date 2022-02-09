@@ -251,7 +251,7 @@ Bot.checkRegExps = function(msg) {
 
 //---------------------------------------------------------------------
 // Actions
-// Contains functions for bot actions.
+// Contains functions for bot actions. STILL NEEDS PARTIAL IMPLEMENTATION
 //---------------------------------------------------------------------
 
 const Actions = DBM.Actions = {};
