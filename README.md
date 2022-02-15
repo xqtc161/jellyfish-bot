@@ -1,3 +1,5 @@
+# !!NOT LONGER MAINTAINED!!
+ Should still work. Lot of the actions still need implementation. Feel free to commit :)
 # jellyfish-bot
  Discord Bot with simple Moderation tools
  
