@@ -14,4 +14,10 @@
  Usage:
 
  ![foxdemo](https://i.imgur.com/X8EKeDO.png)
+ 
+ 
+<p align=center>
+Visit Since 20/6/2022<br/>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@V?theme=rule34"/></a><br/>
+</p>
   
