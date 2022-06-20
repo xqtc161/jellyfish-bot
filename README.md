@@ -18,6 +18,6 @@
  
 <p align=center>
 Visit Since 20/6/2022<br/>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@V?theme=rule34"/></a><br/>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@xqtc-jellyfish?theme=rule34"/></a><br/>
 </p>
   
